@@ -4,7 +4,7 @@
 title: Linda Nguyen
 
 # Short description of your site
-description: "test for a blog of Linda Nguyen"
+description: A minimalist blog that maximizers your life
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -71,7 +71,7 @@ social-network-links:
   email: "lanh.ptit.tn@gmail.com"
   facebook: nhi.nho.a1k9
   github: lanhnth-1450
-  twitter: daattali
+  twitter: hulasan
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "lanhnth-1450.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
